@@ -24,6 +24,27 @@ Step 3: Click on Module 1 to perform the task.
 
 Step 4: Follow the instructions and proceed further. You have now completed module 1.
 
+![image](https://user-images.githubusercontent.com/13967081/225060511-dc434f5c-1fb6-447c-ad34-91ac3ad787a4.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225060637-f13b1ff3-cbf2-4e67-a17e-30cc8569fda0.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061159-a3f86145-b6a8-40cb-a08d-aea2eb549ffb.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061309-66c10cd1-974d-4e19-ba42-dcb5333db636.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061422-636f1dd6-1c93-4c46-91cc-a14ea3878977.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061577-f671b53d-61bc-4321-a367-013e09d979e7.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061699-533e431c-d89d-42e8-ad91-dec276e6be5b.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061816-f59fa39d-3bb9-4606-99b8-82ab1efa8346.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225061923-58d706fb-1f37-48a9-aee3-f71faa23fb28.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225062072-35f15c38-5c87-47fc-837e-e4e6a6fc854b.png)
+
+![image](https://user-images.githubusercontent.com/13967081/225062205-30bcb052-1283-4262-9a5e-baba91b4e3bd.png)
 
 
 Module 2 : Data Analysis using SQL ( Week 1)
